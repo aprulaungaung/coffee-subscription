@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/coffee-subscription/static/js/main.d3c017f4.js",
+    "index.html": "/coffee-subscription/index.html",
+    "main.d3c017f4.js.map": "/coffee-subscription/static/js/main.d3c017f4.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d3c017f4.js"
+  ]
+}
